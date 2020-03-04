@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMIcalulator</string>
+    <string name="hight">身長（cm）</string>
+    <string name="wightlabel">体重（kg）</string>
+    <string name="bmi">BMI</string>
+    <string name="buttun">計算開始</string>
+</resources>
